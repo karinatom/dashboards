@@ -31,4 +31,5 @@ Google Sheets:
 - добавить фильтры по артикулам поставщика и названиям товара;
 - настроить возможность сравнения показателей с прошлым периодом для лидеров роста и падения.
 
-![Скрин дашборда](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/feed_realtime.jpg)
+![Скрин дашборда](https://github.com/karinatom/dashboards/blob/main/wildberries/fin.png)
+

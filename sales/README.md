@@ -15,6 +15,6 @@ Google Sheets:
 - отобразить распределение на карте;
 - вывести таблицу с менеджерами, которые продают с отрицательной прибылью.
 
-![Скрин дашборда](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/feed_realtime.jpg)
+![Скрин дашборда](https://github.com/karinatom/dashboards/blob/main/sales/sales.png)
 
-[Данные](https://drive.google.com/drive/folders/1rA4o6KHH-M2KMvBLHp5DZ5gioF2q7hZw) от компании DataSfera
+Данные от компании DataSfera

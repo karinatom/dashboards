@@ -24,6 +24,6 @@ Google sheets:
 	- вывести график с возрастом сотрудников.
 
 
-![Скрин дашборда](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/feed_realtime.jpg)
+![Скрин дашборда](https://github.com/karinatom/dashboards/blob/main/sales_and_employees/main.png)
 
-![Скрин дашборда](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/feed_realtime.jpg)
+![Скрин дашборда](https://github.com/karinatom/dashboards/blob/main/sales_and_employees/employees.png)

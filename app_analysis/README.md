@@ -5,11 +5,12 @@
 - провести анализ поведения пользователей и эффективности рекламной кампании
 
 ### Операционный дашборд за текущий день для ленты
-![Операционный дашборд за текущий день для ленты](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/feed_realtime.jpg)
+![Операционный дашборд за текущий день для ленты](https://github.com/karinatom/dashboards/blob/main/app_analysis/feed_realtime.jpg)
 
 ### Аналитический дашборд за прошедший период для ленты и мессенджера
-![Аналитический дашборд за прошедший период для ленты и мессенджера](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/feed_main.jpg)
-![messenger](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/messenger.jpg)
+![Аналитический дашборд за прошедший период для ленты и мессенджера](https://github.com/karinatom/dashboards/blob/main/app_analysis/feed_main.jpg)
+
+![messenger](https://github.com/karinatom/dashboards/blob/main/app_analysis/messenger.jpg)
 
 ### Retention
 
@@ -17,7 +18,7 @@
 
 *В обоих случаях на второй день резко падает число вернувшихся в приложение – для органики это ≈45%, для рекламы 35%. Дальше процент вернувшихся постепенно снижается, и через 30 дней приложением продолжают пользоваться 14% органических пользователей и 7% пользователей пришедших через платный трафик.*
 
-![Retention](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/retention.png)
+![Retention](https://github.com/karinatom/dashboards/blob/main/app_analysis/retention.png)
 
 ### Анализ кампании
 
@@ -28,7 +29,7 @@
 
 *Можно сделать вывод о низком качестве трафика с этой рекламной кампании.*
 
-![Анализ кампании](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/campain_analysis.png)
+![Анализ кампании](https://github.com/karinatom/dashboards/blob/main/app_analysis/campain_analysis.png)
 
 ### Падение активной аудитории
 
@@ -38,4 +39,4 @@
 
 *Проверила пользователей по регионам и в РФ наблюдался спад активности пользователей. В разрезе по городам видно, что 25.09 в приложение не заходили из Москвы, Питера, Новосибирска и Екатеринбурга, хотя это самые топовые города по кол-ву уникальных пользователей в день.*
 
-![Падение активной аудитории](https://github.com/karinatom/karpov_analyst_simulator/blob/main/Dashboards/drop.png)
+![Падение активной аудитории](https://github.com/karinatom/dashboards/blob/main/app_analysis/drop.png)
